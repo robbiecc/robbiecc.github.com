@@ -3,6 +3,7 @@ layout: post
 title: "Hello Robbie"
 description: ""
 category: 
-tags: []
+tags: [test]
 ---
 {% include JB/setup %}
+Hello, a geek test. Thanks.
